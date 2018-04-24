@@ -41,3 +41,9 @@ gem 'spring',        group: :development
 # Bootstrap
 gem 'bootstrap-sass'
 
+# Devise
+gem 'devise'
+
+# Devise traduction
+gem 'devise-i18n'
+

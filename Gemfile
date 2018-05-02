@@ -47,3 +47,6 @@ gem 'devise'
 # Devise traduction
 gem 'devise-i18n'
 
+# Ajout d'une photo de profil
+gem "paperclip"
+

@@ -50,3 +50,9 @@ gem 'devise-i18n'
 # Ajout d'une photo de profil
 gem "paperclip"
 
+# Amélioration du système de notification
+gem 'toastr-rails'
+
+# Traduction 
+gem 'rails-i18n'
+
